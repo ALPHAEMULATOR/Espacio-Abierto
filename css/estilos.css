@@ -40,6 +40,14 @@
 
 }
 
+
+.btn1{
+
+
+color: white;
+
+
+}
 .link{
     color:white}
 .media{
@@ -61,7 +69,6 @@
 /* Padding below the footer and lighter body text */
 
 body {
-    padding-top: 3rem;
     padding-bottom: 3rem;
     color: #5a5a5a;
   }
